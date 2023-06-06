@@ -2,7 +2,7 @@
 
 export const AppConfig = {
   site_name: 'Starter',
-  title: 'Nextjs Starter',
+  title: 'Merged PR',
   description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
   locale: 'en',
 };
